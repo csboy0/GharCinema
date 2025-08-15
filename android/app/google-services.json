@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992378765030",
+    "project_id": "gharcinema-4d898",
+    "storage_bucket": "gharcinema-4d898.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992378765030:android:1f680fed39192302b00527",
+        "android_client_info": {
+          "package_name": "com.oadevs.cinemaghar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNN5D8OiAtfjtsupPDM_R2mqDxLx4PwE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
